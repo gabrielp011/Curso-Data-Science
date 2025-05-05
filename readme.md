@@ -39,7 +39,7 @@ Pesquisa no [google](https://www.google.com)
 
 <!-- ![Texto alternativo](https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Python.svg/800px-Python.svg.png) -->
 
-<img src= 'https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Python.svg/800px-Python.svg.png' width=300px>
+<img src= 'https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Python.svg/800px-Python.svg.png' width=200px>
 
 # Blocos de código
 
@@ -55,7 +55,7 @@ Olá
 |Nome   |Idade  |Cidade |
 |-------|-------|-------|
 |Ana    |22     |Fortaleza|
-|Caio    |25     |Caucaia|
+|Caio   |25     |Caucaia|
 
 # Checklist
 - [ ] Tarefa Pendente
