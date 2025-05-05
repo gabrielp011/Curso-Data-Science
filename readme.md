@@ -16,13 +16,13 @@
 
 ~~Texto riscado~~ 
 
-#Lista não ordenada 
+# Lista não ordenada 
 
 *Item 1
 *Item 2
 *Item 3
 
-#Lista ordenada
+# Lista ordenada
 
 1. Primeiro
 2. Segundo
@@ -32,3 +32,7 @@
 -Item
     - Subitem 1.1
     - Subitem 1.2
+
+# Links e imagens
+
+[Texto do link](https://www.google.com)
