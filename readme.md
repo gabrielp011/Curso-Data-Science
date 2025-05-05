@@ -50,3 +50,8 @@ Pesquisa no [google](https://www.google.com)
 ---
 Olá
 ---
+
+# Tabelas
+|Nome   |Idade  |Cidade |
+|-------|-------|-------|
+|Ana    |22     |Fortaleza|
