@@ -37,6 +37,10 @@
 
 Pesquisa no [google](https://www.google.com)
 
-![Texto alternativo](https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Python.svg/800px-Python.svg.png)
+<!-- ![Texto alternativo](https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Python.svg/800px-Python.svg.png) -->
 
 <img src= 'https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Python.svg/800px-Python.svg.png' width=300px>
+
+# Blocos de código
+
+```` print('Olá Markdown') ````
