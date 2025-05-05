@@ -44,3 +44,9 @@ Pesquisa no [google](https://www.google.com)
 # Blocos de código
 
 ```` print('Olá Markdown') ````
+
+# Linha horizontal
+
+---
+Olá
+---
