@@ -55,6 +55,7 @@ Olá
 |Nome   |Idade  |Cidade |
 |-------|-------|-------|
 |Ana    |22     |Fortaleza|
+|Caio    |25     |Caucaia|
 
 # Checklist
 - [ ] Tarefa Pendente
