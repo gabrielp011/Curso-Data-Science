@@ -55,3 +55,11 @@ Olá
 |Nome   |Idade  |Cidade |
 |-------|-------|-------|
 |Ana    |22     |Fortaleza|
+
+# Checklist
+- [ ] Tarefa Pendente
+- [X] Tarefa Concluida
+
+# Emojis
+:smile
+:rocket
