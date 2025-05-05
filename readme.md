@@ -4,3 +4,8 @@
 #### Titulo 4 
 ##### Titulo 5 
 ###### Titulo 6 
+
+ênfase (negrito,italico,riscado)
+*Italico* ou _italico_
+**negrito** ou __negrito__
+~~Texto riscado~~ 
