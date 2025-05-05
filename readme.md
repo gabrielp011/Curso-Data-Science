@@ -7,5 +7,15 @@
 
 ênfase (negrito,italico,riscado)
 *Italico* ou _italico_
+
+
 **negrito** ou __negrito__
+
+
 ~~Texto riscado~~ 
+
+#Listas
+
+*Item 1
+*Item 2
+*Item 3
